@@ -1,1 +1,1 @@
-# LMSpeech
+# LightTTS
